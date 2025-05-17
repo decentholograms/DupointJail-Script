@@ -1,4 +1,4 @@
-# YARD SALE SCRIPT
+# DUPOINT JAIL SCRIPT
 
 The best script for dupoint jail, join: https://discord.gg/T57cbGDJZb
 
